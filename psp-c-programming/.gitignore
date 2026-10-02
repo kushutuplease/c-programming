@@ -1,0 +1,8 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore VS Code configuration files
+.vscode/
